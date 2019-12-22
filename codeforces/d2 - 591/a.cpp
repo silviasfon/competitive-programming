@@ -1,3 +1,5 @@
+// https://codeforces.com/contest/1223/problem/A
+
 #include <bits/stdc++.h>
 
 #define INF 0x3f3f3f3f
